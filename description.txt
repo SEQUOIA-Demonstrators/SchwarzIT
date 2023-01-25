@@ -1,0 +1,13 @@
+SEQUOIA Demonstrator Vehicle Routing
+
+Kurzbeschreibung:
+
+Der Demonstrator enthält die Modellierung eines vereinfachten Vehicle Routing Problems als Python Klasse und einige beispielhafte Instanziierungen. 
+Wir zeigen wie das Problem als quadratisches Problem aufgefasst werden und in ein QUBO umgewandelt werden kann.
+Für jedes Beispiel kann mittels des CPlex Optimizers die Lösung klassisch oder mittels des QAOA Algorithmus über einen lokalen Simulator ermittelt werden.
+
+Short Description:
+
+The demonstrator models a simpliflied vehicle routing probem as a python class. Several example instances of different complexity are provided.
+We show how the probem can be formulated as a quadratic problem and how it can be tranformed into a QUBO.
+Every Example can be solved either via the classical Cplex Optimizer or via QAOA on a local simulator.
